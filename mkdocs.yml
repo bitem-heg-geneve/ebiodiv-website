@@ -1,0 +1,42 @@
+site_name: eBioDiv
+site_description: Literature services for BioDiversity
+site_url: https://ebiodiv.org
+repo_url: https://github.com/bitem-heg-geneve/ebiodiv-website
+nav:
+  - eBioDiv: 'index.md'
+  - Blog: 'blog.md'
+  - News: 'news.md'
+  - Tool (demo): https://candy.text-analytics.ch/eBioDiv/demo/
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+theme:
+  name: material
+  custom_dir: overrides
+  locale: en
+  include_sidebar: false
+  logo: assets/logo_ebiodiv_white.png
+  favicon: assets/ebiodiv.ico
+  font: false
+  palette:
+    primary: green
+    accent: indigo
+  features:
+    - navigation.tabs
+extra_css:
+  - stylesheets/extra.css
+plugins:
+  # - search:
+  - rss:
+  - blogging:
+      dirs:
+        - blog
+      categories:
+        - name: news
+          dirs:
+            - news
+      theme:
+        name: button
+        options:
+          plain_button: true
