@@ -6,7 +6,8 @@ nav:
   - eBioDiv: 'index.md'
   - Blog: 'blog.md'
   - News: 'news.md'
-  - Tool (demo): https://candy.text-analytics.ch/eBioDiv/demo/
+  - Matching service: https://prod.ebiodiv.org/
+  - Sandbox: https://sandbox.ebiodiv.org/
 markdown_extensions:
   - attr_list
   - md_in_html
