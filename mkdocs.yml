@@ -4,14 +4,22 @@ site_url: https://bitem-heg-geneve.github.io/ebiodiv-website
 repo_url: https://github.com/bitem-heg-geneve/ebiodiv-website
 nav:
   - eBioDiv: 'index.md'
-  - Blog: 'blog.md'
-  - News: 'news.md'
+  - Documentation: 
+      - 'Introduction': 'documentation/index.md'
+      - 'Matching algorithm': 'documentation/matching_algorithm.md'
+      - 'Data source': 'documentation/data.md'
+      - 'Occurrence list': 'documentation/occurrence_list.md'
   - Matching service: https://prod.ebiodiv.org/
   - Sandbox: https://sandbox.ebiodiv.org/
 markdown_extensions:
   - attr_list
   - md_in_html
   - admonition
+  - abbr
+  - tables
+  - footnotes
+  - def_list
+  - pymdownx.critic
 theme:
   name: material
   custom_dir: overrides
@@ -28,16 +36,6 @@ theme:
 extra_css:
   - stylesheets/extra.css
 plugins:
-  # - search:
   - rss:
-  - blogging:
-      dirs:
-        - blog
-      categories:
-        - name: news
-          dirs:
-            - news
-      theme:
-        name: button
-        options:
-          plain_button: true
+  - git-revision-date-localized:
+      enable_creation_date: true

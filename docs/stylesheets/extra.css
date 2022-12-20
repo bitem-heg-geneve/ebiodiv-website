@@ -52,3 +52,16 @@ article .license {
     text-align: center;
     margin: 5rem auto;
 }
+
+nav.md-tabs a[href^="http://"]::after,
+nav.md-tabs a[href^="https://"]::after
+article a[href^="http://"]::after,
+article a[href^="https://"]::after {
+    content: " ";
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    background-image: url('data:image/svg;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48IS0tISBGb250IEF3ZXNvbWUgUHJvIDYuMi4xIGJ5IEBmb250YXdlc29tZSAtIGh0dHBzOi8vZm9udGF3ZXNvbWUuY29tIExpY2Vuc2UgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbS9saWNlbnNlIChDb21tZXJjaWFsIExpY2Vuc2UpIENvcHlyaWdodCAyMDIyIEZvbnRpY29ucywgSW5jLiAtLT48cGF0aCBkPSJNMzUyIDBjLTEyLjkgMC0yNC42IDcuOC0yOS42IDE5LjhzLTIuMiAyNS43IDYuOSAzNC45TDM3MC43IDk2IDIwMS40IDI2NS40Yy0xMi41IDEyLjUtMTIuNSAzMi44IDAgNDUuM3MzMi44IDEyLjUgNDUuMyAwTDQxNiAxNDEuM2w0MS40IDQxLjRjOS4yIDkuMiAyMi45IDExLjkgMzQuOSA2LjlzMTkuOC0xNi42IDE5LjgtMjkuNlYzMmMwLTE3LjctMTQuMy0zMi0zMi0zMkgzNTJ6TTgwIDMyQzM1LjggMzIgMCA2Ny44IDAgMTEyVjQzMmMwIDQ0LjIgMzUuOCA4MCA4MCA4MEg0MDBjNDQuMiAwIDgwLTM1LjggODAtODBWMzIwYzAtMTcuNy0xNC4zLTMyLTMyLTMycy0zMiAxNC4zLTMyIDMyVjQzMmMwIDguOC03LjIgMTYtMTYgMTZIODBjLTguOCAwLTE2LTcuMi0xNi0xNlYxMTJjMC04LjggNy4yLTE2IDE2LTE2SDE5MmMxNy43IDAgMzItMTQuMyAzMi0zMnMtMTQuMy0zMi0zMi0zMkg4MHoiLz48L3N2Zz4=');
+    background-repeat: no-repeat;
+    background-position: top left;
+}
