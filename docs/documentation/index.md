@@ -73,7 +73,7 @@ There are three possible outcomes your matching decisions can take:
 
     If you are unsure whether a given “material citation”-”specimen” pair is a match, do not take any decision (tick neither “Yes” nor “No”).
 
-    If you look at the example in the screenshot, you will see that relatively few data are given in the material citation. While the two items have matching catalog numbers (the prefix “AMNH” refers to the institution), which usually would strongly indicate a match, the two items have two different collection dates. This may be due to a typo in the data, or it may refer to a different specimen. Given the fact that there is no additional data that would support our decision in this or the other way, we can leave it undecided whether the pair is a match or not and go back to the list without recording any decision.
+    If you look at the example in the screenshot, you will see that relatively few data are given in the material citation. While the two items have matching catalog numbers (the prefix “AMNH” refers to the institution), which usually would strongly indicate a match, the two items have two different collection dates. This may be due to a typo in the data, or it may refer to a different specimen. Given the fact that there is no additional data that would support our decision in this or the other way, we can leave it undecided whether the pair is a match and go back to the list without recording any decision.
 
     <figure markdown>
       ![](match-undecided.png)
