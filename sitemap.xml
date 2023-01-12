@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://bitem-heg-geneve.github.io/ebiodiv-website/</loc>
-         <lastmod>2022-12-20</lastmod>
+         <lastmod>2023-01-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://bitem-heg-geneve.github.io/ebiodiv-website/documentation/</loc>
-         <lastmod>2022-12-20</lastmod>
+         <lastmod>2023-01-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://bitem-heg-geneve.github.io/ebiodiv-website/documentation/data/</loc>
-         <lastmod>2022-12-20</lastmod>
+         <lastmod>2023-01-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://bitem-heg-geneve.github.io/ebiodiv-website/documentation/matching_algorithm/</loc>
-         <lastmod>2022-12-20</lastmod>
+         <lastmod>2023-01-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://bitem-heg-geneve.github.io/ebiodiv-website/documentation/occurrence_list/</loc>
-         <lastmod>2022-12-20</lastmod>
+         <lastmod>2023-01-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
