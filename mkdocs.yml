@@ -6,9 +6,8 @@ nav:
   - eBioDiv: 'index.md'
   - Help:
       - 'Introduction': 'help/index.md'
-      - 'Matching algorithm': 'help/matching_algorithm.md'
       - 'Data source': 'help/data.md'
-      - 'Occurrence list': 'help/occurrence_list.md'
+      - 'Matching algorithm': 'help/matching_algorithm.md'
   - Matching service: https://prod.ebiodiv.org/
   - Sandbox: https://sandbox.ebiodiv.org/
 markdown_extensions:
@@ -33,6 +32,8 @@ theme:
     accent: indigo
   features:
     - navigation.tabs
+    - navigation.tracking
+    - toc.follow
 extra_css:
   - stylesheets/extra.css
 plugins:

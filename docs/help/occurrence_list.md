@@ -1,5 +1,0 @@
-# Occurrence list
-
-## Filter
-
-## Sort

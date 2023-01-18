@@ -7,4 +7,4 @@ see [Identifying potentially related records - How does the GBIF data-clustering
 
 ## scientific publications from Plazi Treatment Bank
 
-...
+see [TreatmentBank](https://plazi.org/treatmentbank/)
