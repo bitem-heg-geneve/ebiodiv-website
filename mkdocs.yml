@@ -4,11 +4,11 @@ site_url: https://bitem-heg-geneve.github.io/ebiodiv-website
 repo_url: https://github.com/bitem-heg-geneve/ebiodiv-website
 nav:
   - eBioDiv: 'index.md'
-  - Documentation: 
-      - 'Introduction': 'documentation/index.md'
-      - 'Matching algorithm': 'documentation/matching_algorithm.md'
-      - 'Data source': 'documentation/data.md'
-      - 'Occurrence list': 'documentation/occurrence_list.md'
+  - Help:
+      - 'Introduction': 'help/index.md'
+      - 'Matching algorithm': 'help/matching_algorithm.md'
+      - 'Data source': 'help/data.md'
+      - 'Occurrence list': 'help/occurrence_list.md'
   - Matching service: https://prod.ebiodiv.org/
   - Sandbox: https://sandbox.ebiodiv.org/
 markdown_extensions:
