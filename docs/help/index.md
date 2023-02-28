@@ -5,9 +5,9 @@ The Earth’s scholarly knowledge about species diversity (biodiversity) is incl
 The **eBioDiv Matching Service** helps bridge this gap: The crowdsourcing tool allows users to match material citations contained in the academic literature to the respective specimens in natural history collections. To facilitate the task, a semi-automatic matching approach is used, where users are presented with lists of possible matches, along with matching scores indicating the probability of a match calculated by an [algorithm](matching_algorithm.md) developed for this purpose. Over time, the matching decisions taken by the users will be used as input to further refine the algorithm, thus increasing the efficiency of the tool.
 
 !!! warning Disclaimer
-    Note that the eBioDiv Matching Service and its documentation are still under development and is continuously updated; it may therefore well be that you will encounter some minor discrepancies between the text or the illustrations in this help section and the tool itself.
+    Note that the eBioDiv Matching Service and its documentation are still under development and are continuously updated; it may therefore well be that you will encounter some minor discrepancies between the text or the illustrations in this help section and the tool itself.
 
-    {++In light green text++} referres to features that have not been implemented yet.
+    {++Text in light green++} refers to features that have not been implemented yet.
 
 ## Getting Started
 
