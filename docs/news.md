@@ -7,4 +7,6 @@
 | June  9th, 2023 | Présentation at Geneva Conservatory and Botanical Garden |
 | XXX 2023 | Presentation at consortium meeting BICIKL in Plovdiv |
 | June 2023 | Scientific Advisory Board meeting 2 |
-| May 2022 | Scientific Advisory Board meeting 1 | TEST TEST
+| May 2022 | Scientific Advisory Board meeting 1 |
+| June 2023 | Scientific Advisory Board meeting 2 |
+| May 2022 | Scientific Advisory Board meeting 1 |
