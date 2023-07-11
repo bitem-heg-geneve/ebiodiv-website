@@ -6,13 +6,10 @@
 **Location:** Geneva, Switzerland
 
 <ins>People</ins>:  
-Patrick Ruch | Alexandre Flament | Emilie Pasche | Donat Agosti | **tbc**
+<div style="text-align: justify"> Patrick Ruch | Alexandre Flament | Emilie Pasche | Donat Agosti | Julien Gobeill | Déborah Caucheteur | Laurence Bénichou | Marianne Salaün | Lyubomir Penev | Laura Tilley</div>  
 
-<ins>Topics</ins>:  
-**xxx**
-
-<ins>Conclusion</ins>:  
-**xxx**
+<ins>Goal</ins>:  
+<div style="text-align: justify"> Prepare a physical workshop to discuss why and demonstrate how to publish semantically enhanced, linked biodiversity publications.  </div>
 
 ---
 
@@ -22,10 +19,10 @@ Patrick Ruch | Alexandre Flament | Emilie Pasche | Donat Agosti | **tbc**
 **Location:** Neuchâtel, Switzerland
 
 <ins>Scientific committee</ins>:  
-Donat Agosti, Plazi | Pierre-Marie Allard, UNIFR | Nadir Alvarez | Laurence Bénichou | Fabio Rinaldi | Patrick Ruch | Robert Waterhouse
+<div style="text-align: justify">Donat Agosti, Plazi | Pierre-Marie Allard, UNIFR | Nadir Alvarez | Laurence Bénichou | Fabio Rinaldi | Patrick Ruch | Robert Waterhouse</div>
 
-<ins>Topics</ins>:  
-**xxx**
+<ins>Topic</ins>:  
+<div style="text-align: justify"> Discussion about BiodiversityPMC (built and maintained by SIBiLS, Zenodo and Plazi), an equivalent of the PMC/PubMed for publications in the biodiversity domain which will provide an improved accesion of scientific knowledge on biodiversity to better understand the dynamics and dimensions of the global biodiversity crisis, the impact of climate change on the distribution of species and the viral spillover from animals to humans.</div>
 
 [Link to the Workshop Swiss-Text webpage](https://biodiversity.text-analytics.ch/)
 
@@ -37,60 +34,46 @@ Donat Agosti, Plazi | Pierre-Marie Allard, UNIFR | Nadir Alvarez | Laurence Bén
 ## Présentation at Geneva Conservatory and Botanical Garden
 
 **Date:** June  9th, 2023
-**Location:** Geneva, Switzerland
-
-<ins>People</ins>:  
-xxx | xxx | xxx
-
-<ins>Topics</ins>:  
-xxx
-
-<ins>Conclusion</ins>:  
-?
-
+**Location:** Geneva, Switzerland  
 
 ---
-
-## Scientific Advisory Board meeting 3
+## Scientific Advisory Board meeting
 
 **Date:** February 21st, 2023
 **Location:** Online 
 
 <ins>People</ins>:  
-Robert Waterhouse | Laurence Bénichou | Michelle Price | Elisa Herrmann | Dietrich Rebholz-Schuhmann | Patrick Ruch | Alexandre Flament | Emilie Pasche | Donat Agosti | Beat Estermann
+<div style="text-align: justify"> Robert Waterhouse | Laurence Bénichou | Michelle Price | Elisa Herrmann | Dietrich Rebholz-Schuhmann | Patrick Ruch | Alexandre Flament | Emilie Pasche | Donat Agosti | Beat Estermann</div>
 
 <ins>Topics</ins>:  
-xxx
-
-<ins>Conclusion</ins>:  
-
-
----
-
-## Scientific Advisory Board meeting 2
-
-**Date:** May  XX, 2022
-**Location:** Location ?
-
-<ins>People</ins>:  
-???
-
-<ins>Topics</ins>:  
-xxx
-
-<ins>Conclusion</ins>:  
-
+- Discussions about:  
+    &nbsp;&nbsp;&nbsp;&nbsp; - Communication   
+    &nbsp;&nbsp;&nbsp;&nbsp; - Identifiers    
+    &nbsp;&nbsp;&nbsp;&nbsp; - Material matching edge cases 
+    &nbsp;&nbsp;&nbsp;&nbsp; - Training:  
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - target groups for the traning(s)  
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - training stakeholders  
+    &nbsp;&nbsp;&nbsp;&nbsp; - Collaborations:  
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - NFDI4Biodiversity    
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Biodiversity communites: World Spider Catalogue, WORMS, FishBase, ReptilBasem,  
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mammals Data base, GBIF Nodes  
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - CETAF  
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - WHO's OneHealth  
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Algae project at CJB Geneva  
+    &nbsp;&nbsp;&nbsp;&nbsp; - RI landscape Europe  
+    &nbsp;&nbsp;&nbsp;&nbsp; - Outreach:  
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - MusNatColl Metting (June 2023, Geneva)  
 
 ---
 
 
-## Scientific Advisory Board meeting 1
+## Scientific Advisory Board meeting
 
 **Date:** November 15, 2021
 **Location:** Online
 
 <ins>People</ins>:  
-Laurence Benichou | Michelle Price (Geneva Botanical Gardens) | Elisa Hermann | Robert Waterhouse | Patrick Ruch | Donat Agosti | Déborah Caucheteur | Beat Estermann | Nadir Alvarez
+<div style="text-align: justify">Laurence Benichou | Michelle Price (Geneva Botanical Gardens) | Elisa Hermann | Robert Waterhouse | Patrick Ruch | Donat Agosti | Déborah Caucheteur | Beat Estermann | Nadir Alvarez</div>
 
 <ins>Topics</ins>:  
 - Bulding a corpus of journals covering Swiss natural history collections.  
@@ -113,7 +96,7 @@ Laurence Benichou | Michelle Price (Geneva Botanical Gardens) | Elisa Hermann | 
     &nbsp;&nbsp;&nbsp;&nbsp; S9. curation of the links  
 
 
-<ins>Conclusion OR Take home message</ins>:  
+<ins>Conclusion</ins>:  
 <div style="text-align: justify"> The success of this project will depend on discussions with publishers, contact with SwissCollNet, discussion with the Swiss Natural History collection (SCNAT), discussion with other communities like librarians. In more technical aspects, it will be necessary to create a blue print on what will be done, illustrate usage to communities like Naturalis (Swiss Flora), define use case on how much the data in publications contributes to the awareness of specimen data in a publications, produce a metric on specimen usage and demonstrate the value of the data extracted and what new it provides. KPI definition to count citations of museums contents - and therefore journals - is important; by demonstrating to stakeholders that liberation of the data of their journals they can have access to new metrics valorising their collections they will understand that it is worth the effort.   </div>
 
 Key questions about the project:  
@@ -132,4 +115,3 @@ Key questions about the project:
     - better material citations  
     - use better ways to do better names publishing
 ---
-
