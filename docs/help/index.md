@@ -24,7 +24,7 @@ In some cases, you will be asked to further refine your selection.
 
 The selection contains specimens for which [data has been made available](data.md) on [GBIF.org](https://www.gbif.org/) and for which potentially corresponding material citations have been found in [scientific publications made available](data.md) through the [Plazi Treatment Bank](http://plazi.org/treatmentbank/).
 
-You can decide whether you would like to do the matching of the selected items starting from a list of specimens or starting from a list of material citations. If you want, you can sort the selected items using different [sorting](occurrence_list.md) criteria or further refine your selection by using the [filters](occurrence_list.md) in the left sidebar.
+You can decide whether you would like to do the matching of the selected items starting from a list of specimens or starting from a list of material citations. If you want, you can sort the selected items using different sorting criteria or further refine your selection by using the filters in the left sidebar.
 
 In the table, click on the edit button on the right-hand side of the first item in order to open the matching screen (see screenshot).   
 
