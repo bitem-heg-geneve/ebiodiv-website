@@ -31,13 +31,13 @@
 
 ---
 
-## Présentation at Geneva Conservatory and Botanical Garden
+## Presentation at Geneva Conservatory and Botanical Garden
 
 **Date:** June  9th, 2023
 **Location:** Geneva, Switzerland  
 
 <ins>Topics</ins>:  
-  
+<div style="text-align: justify"> The e-BioDiv matching engine has been demonstrated in front of about 50 registered participants from the Swiss museums and botanical gardens communities. We also introduced the readers into the upcoming Swiss Bio Data ecosystem (SBDe) and the connections between the e-BioDiv services and the SIB Literature Services (SIBiLS). We discussed how important data management is to properly turn collection data in FAIR Digital objects.</div>  
 
 ---
 ## Scientific Advisory Board meeting
@@ -52,7 +52,7 @@
 - Discussions about:  
     &nbsp;&nbsp;&nbsp;&nbsp; - Communication   
     &nbsp;&nbsp;&nbsp;&nbsp; - Identifiers    
-    &nbsp;&nbsp;&nbsp;&nbsp; - Material matching edge cases 
+    &nbsp;&nbsp;&nbsp;&nbsp; - Material matching edge cases  
     &nbsp;&nbsp;&nbsp;&nbsp; - Training:  
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - target groups for the traning(s)  
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - training stakeholders  
