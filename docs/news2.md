@@ -10,6 +10,7 @@
 
 <ins>Goal</ins>:  
 <div style="text-align: justify"> Prepare a physical workshop to discuss why and demonstrate how to publish semantically enhanced, linked biodiversity publications.  </div>
+[Workshop webpage & Registration](https://events.pensoft.net/events/bicikl-workshop-publishers)
 
 ---
 
@@ -24,7 +25,7 @@
 <ins>Topic</ins>:  
 <div style="text-align: justify"> Discussion about BiodiversityPMC (built and maintained by SIBiLS, Zenodo and Plazi), an equivalent of the PMC/PubMed for publications in the biodiversity domain which will provide an improved accesion of scientific knowledge on biodiversity to better understand the dynamics and dimensions of the global biodiversity crisis, the impact of climate change on the distribution of species and the viral spillover from animals to humans.</div>
 
-[Link to the Workshop Swiss-Text webpage](https://biodiversity.text-analytics.ch/)
+[Link to the workshop Swiss-Text webpage](https://biodiversity.text-analytics.ch/)
 
 ![Swiss-Text workshop](./assets/swiss-text_workshop.jpg)
 
@@ -33,13 +34,39 @@
 
 ## Presentation at Geneva Conservatory and Botanical Garden
 
-**Date:** June  9th, 2023
+**Date:** June  9th, 2023 
 **Location:** Geneva, Switzerland  
 
 <ins>Topics</ins>:  
-<div style="text-align: justify"> The e-BioDiv matching engine has been demonstrated in front of about 50 registered participants from the Swiss museums and botanical gardens communities. We also introduced the readers into the upcoming Swiss Bio Data ecosystem (SBDe) and the connections between the e-BioDiv services and the SIB Literature Services (SIBiLS). We discussed how important data management is to properly turn collection data in FAIR Digital objects.</div>  
+<div style="text-align: justify"> The <a href="https://prod.ebiodiv.org">eBioDiv matching engine</a> has been demonstrated in front of about 50 registered participants from the Swiss museums and botanical gardens communities. We also introduced the readers into the upcoming <a href="https://www.sib.swiss/pages/10890-swissbiodata-ecosystem-boosting-switzerland-s-data-intensive-research-in-life-sciences">SwissBioData ecosystem (SBDe)</a> and the connections between the <a href="https://ebiodiv.org">eBioDiv</a> services and the SIB Literature Services (<a href="https://sibils.text-analytics.ch/search/">SIBiLS</a>). We discussed how important data management is to properly turn collection data in FAIR Digital objects.</div>
 
 ---
+## Training in South Africa with eBioDiv involvment  
+
+**Date:** April 18 to 21st, 2023
+**Location:** Pretoria, South Africa 
+
+<ins>Organization</ins>:
+<div style="text-align: justify"> <a href="https://plazi.org">Plazi</a> | <a href="https://www.sanbi.org">SANBI (South African National Biodiversity Institute)</a></div>
+
+<ins>Goal</ins>:  
+<div style="text-align: justify"> Training course to teach local scientists how to facilitate the access and reuse of scholarly published taxonomic data by themselves as well as the scientific community at large with the participation of 21 researchers, curators, technicians and Postgraduate students from different South Africa's biodiversity insitutions and Nigeria.</div>  
+[More details on Plazi website.]("http://plazi.org/posts/2023/05/training-s-african-scientists/") 
+
+
+## Specimen - material citation matching service training course
+
+**Date:** February 27 & 28, 2023
+**Location:** Online  
+
+<ins>Organization</ins>:
+<div style="text-align: justify"> <a href="https://plazi.org">Plazi</a> | <a href="https://www.mobilise-action.eu/">Mobilise COST Action</a> </div>  
+
+<ins>Goal</ins>:  
+<div style="text-align: justify"> Plazi’s first online two day training course <a href="http://plazi.org/posts/2023/02/expanding-the-biodiv-knowledge-graph/">“Biodiversity and Digital Media: linking material citations in publications to specimens”</a> in which Plazi expects to teach interested parties how to use data preparation tools to become a data liberator. </div>  
+[More details on Plazi website.]("http://plazi.org/posts/2023/03/specimen-material-citation-matching-service-training-course/") 
+
+
 ## Scientific Advisory Board meeting
 
 **Date:** February 21st, 2023
