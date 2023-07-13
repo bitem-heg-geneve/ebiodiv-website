@@ -57,6 +57,7 @@
 <div style="text-align: justify"> Training course to teach local scientists how to facilitate the access and reuse of scholarly published taxonomic data by themselves as well as the scientific community at large with the participation of 21 researchers, curators, technicians and Postgraduate students from different South Africa's biodiversity insitutions and Nigeria.</div>  
 [More details on Plazi website.]("http://plazi.org/posts/2023/05/training-s-african-scientists/") 
 
+---
 
 ## Training in Brazil with eBioDiv involvement 
 
@@ -68,6 +69,8 @@
 
 <ins>Goal</ins>:  
 <div style="text-align: justify"><a href="https://github.com/plazi/community/blob/master/learningModules.md">Training course</a> to teach university students how to facilitate the access and reuse of scholarly published taxonomic data, annotate data from publications, and the <a href="https://prod.ebiodiv.org">eBioDiv matching service</a> by themselves with the 16 participants.</div>  
+
+---
 
 ## Specimen - material citation matching service training course
 
@@ -81,8 +84,8 @@
 <div style="text-align: justify"> Plazi’s first online two day training course <a href="http://plazi.org/posts/2023/02/expanding-the-biodiv-knowledge-graph/">“Biodiversity and Digital Media: linking material citations in publications to specimens”</a> in which Plazi expects to teach interested parties how to use data preparation tools to become a data liberator. </div>  
 [More details on Plazi website.]("http://plazi.org/posts/2023/03/specimen-material-citation-matching-service-training-course/") 
 
-
-## Scientific Advisory Board meeting
+---
+## Scientific Advisory Board meeting 2
 
 **Date:** February 21st, 2023
 **Location:** Online 
@@ -111,8 +114,7 @@
 
 ---
 
-
-## Scientific Advisory Board meeting
+## Scientific Advisory Board meeting 1
 
 **Date:** November 15, 2021
 **Location:** Online
