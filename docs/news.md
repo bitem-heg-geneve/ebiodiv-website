@@ -31,7 +31,6 @@
 
 ![Swiss-Text workshop](./assets/swiss-text_workshop.jpg)
 
-
 ---
 
 ## Presentation at Geneva Conservatory and Botanical Garden
@@ -45,6 +44,7 @@
 [Lecture provided by Patrick Ruch (SIB/HESSO) available here.](https://doi.org/10.5281/zenodo.8141516)  
 
 ---
+
 ## Training in South Africa with eBioDiv involvement  
 
 **Date:** April 18 to 21st, 2023
@@ -85,6 +85,7 @@
 [More details on Plazi website.]("http://plazi.org/posts/2023/03/specimen-material-citation-matching-service-training-course/") 
 
 ---
+
 ## Scientific Advisory Board meeting 2
 
 **Date:** February 21st, 2023
@@ -142,10 +143,8 @@
     &nbsp;&nbsp;&nbsp;&nbsp; S8. potential bidirectional links (automated process)  
     &nbsp;&nbsp;&nbsp;&nbsp; S9. curation of the links  
 
-
 <ins>Conclusion</ins>:  
 <div style="text-align: justify"> The success of this project will depend on discussions with publishers, contact with SwissCollNet, discussion with the Swiss Natural History collection (SCNAT), discussion with other communities like librarians. In more technical aspects, it will be necessary to create a blue print on what will be done, illustrate usage to communities like Naturalis (Swiss Flora), define use case on how much the data in publications contributes to the awareness of specimen data in a publications, produce a metric on specimen usage and demonstrate the value of the data extracted and what new it provides. KPI definition to count citations of museums contents - and therefore journals - is important; by demonstrating to stakeholders that liberation of the data of their journals they can have access to new metrics valorising their collections they will understand that it is worth the effort.   </div>
-
 Key questions about the project:  
 
 1. What are the key challenges to support biodiversity infrastructures ?  
