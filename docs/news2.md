@@ -27,6 +27,8 @@
 
 [Link to the workshop Swiss-Text webpage](https://biodiversity.text-analytics.ch/)
 
+[Lecture provided by Patrick Ruch (SIB/HESSO) available here.](https://doi.org/10.5281/zenodo.8141516)  
+
 ![Swiss-Text workshop](./assets/swiss-text_workshop.jpg)
 
 
@@ -40,8 +42,10 @@
 <ins>Topics</ins>:  
 <div style="text-align: justify"> The <a href="https://prod.ebiodiv.org">eBioDiv matching engine</a> has been demonstrated in front of about 50 registered participants from the Swiss museums and botanical gardens communities. We also introduced the readers into the upcoming <a href="https://www.sib.swiss/pages/10890-swissbiodata-ecosystem-boosting-switzerland-s-data-intensive-research-in-life-sciences">SwissBioData ecosystem (SBDe)</a> and the connections between the <a href="https://ebiodiv.org">eBioDiv</a> services and the SIB Literature Services (<a href="https://sibils.text-analytics.ch/search/">SIBiLS</a>). We discussed how important data management is to properly turn collection data in FAIR Digital objects.</div>
 
+[Lecture provided by Patrick Ruch (SIB/HESSO) available here.](https://doi.org/10.5281/zenodo.8141516)  
+
 ---
-## Training in South Africa with eBioDiv involvment  
+## Training in South Africa with eBioDiv involvement  
 
 **Date:** April 18 to 21st, 2023
 **Location:** Pretoria, South Africa 
@@ -53,6 +57,17 @@
 <div style="text-align: justify"> Training course to teach local scientists how to facilitate the access and reuse of scholarly published taxonomic data by themselves as well as the scientific community at large with the participation of 21 researchers, curators, technicians and Postgraduate students from different South Africa's biodiversity insitutions and Nigeria.</div>  
 [More details on Plazi website.]("http://plazi.org/posts/2023/05/training-s-african-scientists/") 
 
+
+## Training in Brazil with eBioDiv involvement 
+
+**Date:** April 3 to 6, 2023
+**Location:** Porto Alegre, Brazil 
+
+<ins>Organization</ins>:
+<div style="text-align: justify"> <a href="https://plazi.org">Plazi</a> | State University of Rio Grande do Sul </div>  
+
+<ins>Goal</ins>:  
+<div style="text-align: justify"><a href="https://github.com/plazi/community/blob/master/learningModules.md">Training course</a> to teach university students how to facilitate the access and reuse of scholarly published taxonomic data, annotate data from publications, and the <a href="https://prod.ebiodiv.org">eBioDiv matching service</a> by themselves with the 16 participants.</div>  
 
 ## Specimen - material citation matching service training course
 
