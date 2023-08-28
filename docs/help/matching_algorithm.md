@@ -23,7 +23,7 @@ The results of this computational evaluation of the potential matches between ma
 
 ![](matching-score.png)
 
-Users of the eBioDiv Matching Service are then asked to review the potential matches by indicating whether the assertion of a match is indeed true (“**Yes**, it is a match”), false (“**No**, it is not a match”), or whether no decision can be based on the data at hand (“I leave it undecided”). This matching information is then written back to the system, with some of the suggested matches being formally confirmed, and others being formally rejected or formally left undecided.  
+Users of the eBioDiv Matching Service are then asked to review the potential matches by indicating whether the assertion of a match is indeed true (“**Yes**, it is a match”), false (“**No**, it is not a match”), or whether no decision can be based on the data at hand (“**Undecidable**”). This matching information is then written back to the system, with some of the suggested matches being confirmed, and others being rejected or explicitly left undecided.    
 
 ## Known limitations and their implications
 
