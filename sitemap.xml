@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://bitem-heg-geneve.github.io/ebiodiv-website/</loc>
+         <loc>https://ebiodiv.org/</loc>
          <lastmod>2023-09-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bitem-heg-geneve.github.io/ebiodiv-website/news/</loc>
+         <loc>https://ebiodiv.org/news/</loc>
          <lastmod>2023-09-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bitem-heg-geneve.github.io/ebiodiv-website/help/</loc>
+         <loc>https://ebiodiv.org/help/</loc>
          <lastmod>2023-09-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bitem-heg-geneve.github.io/ebiodiv-website/help/data/</loc>
+         <loc>https://ebiodiv.org/help/data/</loc>
          <lastmod>2023-09-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bitem-heg-geneve.github.io/ebiodiv-website/help/matching_algorithm/</loc>
+         <loc>https://ebiodiv.org/help/matching_algorithm/</loc>
          <lastmod>2023-09-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
