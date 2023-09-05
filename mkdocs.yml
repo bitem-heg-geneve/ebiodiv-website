@@ -1,6 +1,6 @@
 site_name: eBioDiv
 site_description: Literature services for BioDiversity
-site_url: https://bitem-heg-geneve.github.io/ebiodiv-website
+site_url: https://ebiodiv.org
 repo_url: https://github.com/bitem-heg-geneve/ebiodiv-website
 nav:
   - eBioDiv: 'index.md'
