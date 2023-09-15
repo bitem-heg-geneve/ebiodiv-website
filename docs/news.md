@@ -12,7 +12,7 @@
 <div style="text-align: justify"> Prepare a physical workshop to discuss why and demonstrate how to publish semantically enhanced, linked biodiversity publications.  </div>
 [Workshop webpage & Registration](https://events.pensoft.net/events/bicikl-workshop-publishers)
 
-![CETAF workshop](./assets/unamed.jpg)
+![CETAF workshop](./assets/unnamed.jpg)
 
 ---
 
