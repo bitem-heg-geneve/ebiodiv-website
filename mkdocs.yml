@@ -36,7 +36,7 @@ theme:
     - navigation.tracking
     - toc.follow
 extra_css:
-  - stylesheets/extra.css
+  - extra/extra.css
 plugins:
   - rss:
   - git-revision-date-localized:

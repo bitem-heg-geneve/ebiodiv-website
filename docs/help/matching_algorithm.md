@@ -1,3 +1,8 @@
+---
+hide:
+  toc
+---
+
 # Matching algorithm
 
 The **eBioDiv Matching Service** uses a semi-automatic matching approach to match material citations and specimens. This means that users of the matching service are presented with a set of suggested matches, based on prior evaluation of the data by a computational approach. This computational evaluation of the data happens in two steps:
@@ -14,10 +19,26 @@ The eBioDiv Matching Service uses the GBIF data clusters as a starting point to 
 
 The table below gives an overview of how the algorithm applied by the eBioDiv Matching Service is processing the different data fields to calculate matching scores for each pair (material citation & potentially matching specimen). Thereby, matching scores are calculated for each data field, which then serve as inputs to calculate an overall aggregate matching score for the pair.
 
-<figure markdown>
-  ![malgo](https://user-images.githubusercontent.com/1594191/220295019-881a6079-2093-48f2-8494-ed2d8768d35d.png)
-  <figcaption></figcaption>
-</figure>
+<!-- begin: score, weight table -->
+<div class="md-typeset__scrollwrap">
+  <div class="md-typeset__table">
+    <table id="scoring-table">
+      <thead>
+        <tr>
+          <th>Order</th>
+          <th>Name</th>
+          <th>GBIF fields</th>
+          <th>Weight</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+      </tbody>
+    </table>
+  </div>
+</div>
+<script src="../../extra/load_scoring.js"></script>
+<!-- end: score, weight table -->
 
 The results of this computational evaluation of the potential matches between material citations and specimens contained in the GBIF database are then presented to the users of the eBioDiv Matching Service. As can be seen in the screenshot below, the matching scores of individual fields are indicated by means of a color code ranging from red (no match) to green (match), while the aggregate matching score for a given pair is provided in the second column (“Score”). Results are presented in the order of likelihood that the assertion of a match is true.
 
@@ -76,8 +97,3 @@ Once a sufficient number of matching decisions have been recorded by the users o
 Furthermore, it might become possible to automatically sort out data entries that are clearly deficient and therefore unfit as an input for matching decisions. These data entries could then be relegated back to the maintainers of the data along with a request to improve the data.
 
 As a result, fewer matching suggestions will have to be curated by humans. It will be interesting to observe how the intellectual work carried out by the users of the eBioDiv Matching Service will evolve over time as a result of this shift in the balance between the tasks relegated to computer algorithms and the tasks remaining with human contributors.
-
-
-<!--
-<iframe src="https://staging.ebiodiv.org/scoring" style="width:100%; height: 70rem; padding: 0; border: none">
--->
