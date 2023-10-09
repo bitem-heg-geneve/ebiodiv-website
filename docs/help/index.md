@@ -7,43 +7,50 @@ The **eBioDiv Matching Service** helps bridge this gap: The crowdsourcing tool a
 !!! warning Disclaimer
     Note that the eBioDiv Matching Service and its documentation are still under development and are continuously updated; it may therefore well be that you will encounter some minor discrepancies between the text or the illustrations in this help section and the tool itself.
 
-    {++Text in light green++} refers to features that have not been implemented yet.
-
 ## Getting Started
 
 To get started, click on the “Login” button in the top right corner to log in with your ORCID iD. If you do not have an ORCID iD yet, create one by registering [here](https://orcid.org/register).
 
-{++On the start page, select your preferred way of accessing the matching service++}:
+By default, the start screen of the eBioDiv Matching Service features a list of all the **specimens** that can be matched, ordered by their Specimen ID. The list contains specimens for which [data has been made available](data.md) on [GBIF.org](https://www.gbif.org/) and for which potentially corresponding material citations have been found in [scientific publications made available](data.md) through the [Plazi Treatment Bank](http://plazi.org/treatmentbank/).
 
-- {++**Country:** Select “Country” if you would like to match specimens that have been collected in a given country or region.++}
-- **Institution:** Select “Institution” if you would like to match specimens held by a specific institution or that are part of a specific collection.
-- {++**Taxon:** Select “Taxon” if you would like to match specimens belonging to a specific taxon or taxon group.++}
-- {++**Article:** Select “Article” if you would like to match specimens that have been cited in a specific journal article.++}
-
-In some cases, you will be asked to further refine your selection.
-
-The selection contains specimens for which [data has been made available](data.md) on [GBIF.org](https://www.gbif.org/) and for which potentially corresponding material citations have been found in [scientific publications made available](data.md) through the [Plazi Treatment Bank](http://plazi.org/treatmentbank/).
-
-You can decide whether you would like to do the matching of the selected items starting from a list of specimens or starting from a list of material citations. If you want, you can sort the selected items using different sorting criteria or further refine your selection by using the filters in the left sidebar.
-
-In the table, click on the edit button on the right-hand side of the first item in order to open the matching screen (see screenshot).   
+In the top left corner (marked in red in the screenshot below), you can toggle the view to get a list of all the **material citations** instead. Note that the data is the same, but you can choose whether you would like to do the matching of the selected items starting from a list of specimens or starting from a list of material citations.
 
 <figure markdown>
-  ![](edit-button.png)
+  ![](start-screen.png)
 </figure>
+
+By means of a drop down menu, you can sort the table on different variables, such as the scientific name or the number of potential matches, or you can restrict your selection by entering a search term in the “Query” area. 
+
+Right below the “Query” area, you have a series of filters at your disposal (marked in red in the screenshot below), which provide you with additional possibilities to restrict your selection.
+
+<figure markdown>
+  ![](start-screen-filters.png)
+</figure>
+
+These filters allow you to configure your selection according to your preferences: You could for example decide to work on entries pertaining to a specific taxon, related to a specific country, or to a particular institution; or you could restrict your selection to material citations in papers published by a specific author or in a particular journal. 
+
+Once you have specified your selection, click on the edit button on the right-hand side of the first item in the table (see screenshot), in order to open up the matching screen.    
+
+<figure markdown>
+  ![](overview-list-edit-button.png)
+</figure>
+
+Note that in the screenshot above, the status bar for the first two items is in dark green, which means that the matching for these items has already been done. Unless you want to review existing matching decisions, you may therefore go right away to the first item with incomplete matching decisions. In the given case, this would be item number three, where the gray status bar indicates that the given cluster has not yet been worked on. If you want to hide all the items with a given status (e.g. all the items that have already been completed), you can do so by means of the filter “Status code” on the left hand side of your screen.
 
 ## Matching Specimens with Material Citations
 On the matching screen you are presented with the selected specimen (top row) and one or several material citations that are potentially matching the selected specimen.
 
-*If you have chosen to do the matching starting from material citations instead of specimens, the top row will show a material citation instead of a specimen, and in the lower part you will be presented with a list of material citations that are potentially matching the selected material citation. The way the matching service works is the same, independently of whether you match items starting from a material citation or from a specimen..*
+*If you have chosen to do the matching starting from material citations instead of specimens, the top row will show a material citation instead of a specimen, and in the lower part you will be presented with a list of specimens that are potentially matching the selected material citation. The way the matching service works is the same, independently of whether you match items starting from a specimen or from a material citation.*
 
-For each of the material citations presented in the list, decide whether it is matching the specimen indicated on the top and record your decision by selecting “Yes” (match), “No” (no match), or {++“Undecided”++} (see screenshot). If you are done, hit the “Save” button at the bottom.
+For each of the material citations presented in the list, decide whether it is matching the specimen indicated on the top and record your decision by selecting “Yes” (match), “No” (no match), or “Undecidable” (see screenshot). 
 
 <figure markdown>
-  ![](matching-decisions.png)
+  ![](matching-decisions-overview.png)
 </figure>
 
-After hitting the “Save” button, click on “Back to list” just next to it in order to return to the initial overview table. From there, go to the item that is next on the list and record your matching decisions, and so on.
+The data entries for the material citations are color coded, depending on how well the values match the values of the specimen (dark green = “full match”; yellow = “partial match”; red = “no match”).
+
+When you are done, hit one of the green **“Save …”** buttons at the bottom of the page. There are two options: You can either save your decisions and go back to the overview list, or you can save your decisions and continue directly to the next entry in the overview list. You do not need to enter a decision for every suggested match on the matching screen before saving. You can always save your decisions while leaving some of the proposed matches untouched. Furthermore, by clicking on one of the red buttons, you can navigate away from the given screen without saving anything.
 
 There are three possible outcomes your matching decisions can take:
 
@@ -52,29 +59,27 @@ There are three possible outcomes your matching decisions can take:
     If a given “material citation”-”specimen” pair is a match, select “Yes”.
 
     In the case of a match, a large majority of values in the data fields concerning the material citation should be identical with the values for the given specimen (indicated by green coloring).
-    Note, however, that some discrepancies may exist in the data (indicated in red): for example due to inconsistencies in the representation of catalog numbers (see screenshot).    
-
-    <figure markdown>
-        ![](match-yes.png)
-    </figure>
+    Note, however, that some discrepancies may exist in the data (indicated in yellow, orange, or red): for example due to inconsistencies in the descriptions of locations or the representation of catalog numbers (see the screenshot above).    
 
 1. **The material citation does not refer to the specimen** (“**No**, it is not a match.”)
 
     If a given “material citation”-”specimen” pair clearly is no match, select “No”.
 
     In the case of no match, several values in the data fields concerning the material citation are usually different from the values for the given specimen (indicated by red or orange coloring).
-    Note, however, that certain overlaps in the data usually exist (indicated in dark green); otherwise the given “material citation”-”specimen” pair would not have been suggested as a potential match in the first place (see: matching algorithm). Also, some fields that refer to completely different things in reality may still show up in light green color due to apparent similarities in the data (in the example in the screenshot, the locality indication contains in each case the word “Near”). 
+    Note, however, that certain overlaps in the data usually exist (indicated in dark green); otherwise, the given “material citation”-”specimen” pair would not have been suggested as a potential match in the first place (see: matching algorithm(matching_algorithm.md)). Also, some fields that refer to completely different things in reality may still show up in light green color due to apparent similarities in the data (in the example in the screenshot below, the locality indication contains in each case the word “Near”). 
 
     <figure markdown>
-        ![](match-no.png)
+        ![](matching_decision_no_near.png)
     </figure>
 
-1. **It is unclear whether the material citation refers to the specimen** (“I leave it undecided.”)
+1. **It is unclear whether the material citation refers to the specimen** (“**Undecidable**”)
 
-    If you are unsure whether a given “material citation”-”specimen” pair is a match, do not take any decision (tick neither “Yes” nor “No”).
+    If you think that the data is insufficient to decide whether a given “material citation”-”specimen” pair is a match, tick “Undecidable”. If you are completely unsure what to put, you may also tick none of the options and leave it undecided.
 
-    If you look at the example in the screenshot, you will see that relatively few data are given in the material citation. While the two items have matching catalog numbers (the prefix “AMNH” refers to the institution), which usually would strongly indicate a match, the two items have two different collection dates. This may be due to a typo in the data, or it may refer to a different specimen. Given the fact that there is no additional data that would support our decision in this or the other way, we can leave it undecided whether the pair is a match and go back to the list without recording any decision.
 
-    <figure markdown>
-      ![](match-undecided.png)
-    </figure>
+## Personalizing and Sharing your Matching Challenges
+
+Note that your personalized view of the data is always reflected in the URL, which means that you can save your preferred views in your bookmarks to return to them later or to share them with your friends. Thus, by selecting your preferred views and by applying the right filters, you can specify matching challenges that are of particular interest to you, to your institution, or to your community, in order to work on them systematically, both individually or collectively.
+
+As you work systematically on such challenges, the filter “Status code” (on the very top) will be useful to filter out potential matches that have already been worked on, or to spotlight those which have been found to be “undecidable” by yourself or by others, or to review the pairs that have already been matched.
+
