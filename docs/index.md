@@ -46,7 +46,7 @@ In addition to Patrick Ruch’s team at HES-SO and SIB ([Swiss Institute of Bioi
 
 Starting date: September, 1st 2021.
 
-Ending date: August, 31st 2023.
+Ending date: December, 31st 2023.
 
 Status: In progress. 
 
