@@ -24,8 +24,7 @@ function addColumn(document, tr, data) {
 
 docReady(async function() {
     let table = document.getElementById("scoring-table");
-    // URL to replace by https://prod.ebiodiv.org/scoring.json
-    let scoring = await downloadScoring("https://raw.githubusercontent.com/bitem-heg-geneve/ebiodiv-matching-frontend/dist/scoring.json");
+    let scoring = await downloadScoring("https://prod.ebiodiv.org/scoring.json");
     for (const field of scoring) {
         const tr = document.createElement("tr");
         addColumn(document, tr, field.order);
